@@ -1,7 +1,7 @@
 streamlit-shadcn-ui
 dagshub
 lime
-
+shapash
 htbuilder
 
 
